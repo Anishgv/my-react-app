@@ -41,7 +41,9 @@ export function CartData() {
       <div className='card-count'>
         cart {newData.length}
         <StateLessComponent name="In a different Component"/>
-
+       {/* <!--Begin: Star-Clicks.com HTML Code--> */}
+       <script type='text/javascript' src='https://www.star-clicks.com/secure/ads.php?pid=15894377653741660'></script>
+            {/* <!-- End: Star-Clicks.com --> */}
        
       </div>
 
